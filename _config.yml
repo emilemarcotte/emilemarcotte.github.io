@@ -1,5 +1,3 @@
 theme: jekyll-theme-minimal
 title: Émile Marcotte's homepage
 description: This is a description.
-domain: https://emilemarcotte.com # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://emilemarcotte.com  # the base hostname and protocol for your site, e.g. http://example.com
